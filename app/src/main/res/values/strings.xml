@@ -6,7 +6,7 @@
     <string name="imageview_desc">Bitcoin Logo</string>
 
     <string-array name="currency_array">
-        <item>AUD</item>
+        <item>MKD</item>
         <item>BRL</item>
         <item>CAD</item>
         <item>CNY</item>
